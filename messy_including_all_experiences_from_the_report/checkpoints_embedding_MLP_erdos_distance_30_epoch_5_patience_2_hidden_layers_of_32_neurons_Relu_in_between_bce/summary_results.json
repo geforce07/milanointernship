@@ -1,0 +1,10 @@
+[
+    {
+        "dim": 1,
+        "best_epoch": 43,
+        "best_val_loss": 0.037815276438890676,
+        "best_val_auc": 0.5,
+        "test_loss": 0.03702386758692021,
+        "test_auc": 0.5
+    }
+]

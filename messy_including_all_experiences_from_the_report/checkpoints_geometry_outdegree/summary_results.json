@@ -1,0 +1,8 @@
+{
+    "model": "3D geometry + out-degree",
+    "best_epoch": 49,
+    "best_val_loss": 0.028050638314111517,
+    "best_val_auc": 0.916492956717862,
+    "test_loss": 0.027693777742574515,
+    "test_auc": 0.913876213756895
+}
